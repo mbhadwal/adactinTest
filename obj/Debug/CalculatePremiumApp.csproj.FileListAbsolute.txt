@@ -1,0 +1,7 @@
+C:\Users\singh manjeet\Documents\BCG-Codebase\Experiments\CalculatePremiumApp\bin\Debug\CalculatePremiumApp.exe
+C:\Users\singh manjeet\Documents\BCG-Codebase\Experiments\CalculatePremiumApp\bin\Debug\CalculatePremiumApp.pdb
+C:\Users\singh manjeet\Documents\BCG-Codebase\Experiments\CalculatePremiumApp\obj\Debug\CalculatePremiumApp.Form1.resources
+C:\Users\singh manjeet\Documents\BCG-Codebase\Experiments\CalculatePremiumApp\obj\Debug\CalculatePremiumApp.Properties.Resources.resources
+C:\Users\singh manjeet\Documents\BCG-Codebase\Experiments\CalculatePremiumApp\obj\Debug\CalculatePremiumApp.csproj.GenerateResource.cache
+C:\Users\singh manjeet\Documents\BCG-Codebase\Experiments\CalculatePremiumApp\obj\Debug\CalculatePremiumApp.exe
+C:\Users\singh manjeet\Documents\BCG-Codebase\Experiments\CalculatePremiumApp\obj\Debug\CalculatePremiumApp.pdb
